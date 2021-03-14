@@ -1,5 +1,5 @@
 # Mask-detection
-##Project description
+## Project description
 In this project you can test various Machine Learnign Algorithms and Compare them. 
 
 ## Prerequisites
