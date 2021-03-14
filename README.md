@@ -14,6 +14,8 @@ In this project you can test various Machine Learnign Algorithms and Compare the
 
 ### Dataset : [Face Mask detection](https://www.kaggle.com/andrewmvd/face-mask-detection)
 
+### For Evaluation Create a Pull Request on this repository before the end of the event 
+
 ### Resources :
 There are many blogs and research papers on the topic and can be found by a simple Google Search 
 We have added a few here :
